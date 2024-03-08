@@ -1,0 +1,22 @@
+{
+  "name": "chang-bg-color",
+  "version": "1.0.0",
+  "description": "chang-bg-color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oengzhileang/change-bg-color.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oengzhileang/change-bg-color/issues"
+  },
+  "homepage": "https://github.com/oengzhileang/change-bg-color#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}

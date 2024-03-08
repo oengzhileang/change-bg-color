@@ -4,6 +4,7 @@
   "description": "chang-bg-color",
   "main": "index.js",
   "scripts": {
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./Dist/output.css --watch ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
